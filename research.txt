@@ -1,0 +1,16 @@
+¾­µäÂÛÎÄ£º
+    1.The Google File System 
+    2. MapReduce: Simplified Data Processing on Large Clusters
+    3.Dynamo: Amazon¡¯s Highly Available Key-value Store 
+    4.The Chubby lock service for loosely-coupled distributed systems 
+    5.Paxos Made Simple
+    6.A CAP Solution (Proving Brewer Wrong)
+    7.Bigtable: A Distributed Storage System for Structured Data
+    8.PNUTS: Yahoo!'s Hosted Data Serving Platform
+    9.Benchmarking Cloud Serving Systems with YCSB 
+    10.A Comparison of Approaches to Large-Scale Data Analysis
+    11.F1: A Distributed SQL Database That Scales
+    12.Omega: flexible, scalable schedulers for large compute clusters
+    13. Spanner: Google's Globally-Distributed Database
+    14.Megastore: Providing Scalable, Highly Available Storage for Interactive Services
+    15.Dapper, a Large-Scale Distributed Systems Tracing Infrastructure
